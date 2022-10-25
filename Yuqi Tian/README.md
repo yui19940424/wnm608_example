@@ -1,3 +1,3 @@
 # yuqi tian
 
-- https://yuitian.com
+- https://www.yuitian.com
