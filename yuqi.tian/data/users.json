@@ -1,0 +1,20 @@
+[
+	{
+		"name":"Yuqi Tian",
+		"type":"Student",
+		"email":"YuqiTian@gmail.com",
+		"classes":[608]
+	},
+	{
+		"name":"Jialong Gao",
+		"type":"Student",
+		"email":"JialongGao@gmail.com",
+		"classes":[608]
+	},
+	{
+		"name":"Linda Zhou",
+		"type":"Student",
+		"email":"Linda Zhou@gmail.com",
+		"classes":[608]
+	}
+]
